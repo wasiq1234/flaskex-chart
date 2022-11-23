@@ -16,4 +16,4 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Check Helm Version
-        run: helm version 
+        run: helm version
